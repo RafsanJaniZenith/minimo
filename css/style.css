@@ -1,0 +1,175 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+header{
+
+width: 90%;
+
+margin: 30px 5%;
+
+overflow: hidden;
+}
+
+.logo{
+
+float: left;
+}
+
+.logo img{
+
+}
+
+.menu{
+
+}
+
+.menu{
+
+float: right;
+}
+
+.menu ul{
+
+list-style: none;
+}
+
+.menu ul li{
+
+float: left;
+
+margin-left: 32px;
+
+line-height: 45px;
+
+text-transform: uppercase;
+}
+
+.menu ul li a{
+
+text-decoration: none;
+color: #6D6D6D;
+}
+
+.banner{
+
+width: 90%;
+
+margin: 30px auto;
+}
+
+.banner_img{
+
+text-align: center;
+}
+
+.banner_img img{
+
+width: 100%;
+}
+
+.bnr_text{
+
+width: 90%;
+
+margin: 70px auto;
+}
+.bnr_text h5{
+    margin: 20px 0;
+    color: #CCCDC8;
+}
+.bnr_text h1{
+    margin: 20px 0;
+    color: #767676;
+}
+.bnr_text p{
+    margin: 40px 0;
+     color: #808080;
+}
+.bnr_text form textarea{
+    border: none;
+}
+.top{
+    width: 80%;
+    margin: 70px auto;
+    overflow: hidden;
+}
+.music{
+    float: left;
+    width: 49%;
+}
+.music_img{
+}
+.music_img img{
+    width: 100%;
+}
+.music_txt {
+    margin: 24px 0;
+}
+.music_txt h5{
+    margin: 16px 0;
+    color: #CCCDC8;
+}
+.music_txt h2{
+    margin: 30px 0;
+    color: #767676;
+}
+.music_txt p{
+    color: #9A9A9A;}
+.coffee{
+    float: right;
+    width: 49%;
+}
+.newsletter{
+    background-color: #F0F0F0;
+    padding: 50px 0;}
+.sub{
+    text-align: center;}
+.sub h2{
+    margin-bottom: 24px;
+    padding: 20px;
+    font-weight: 400;
+
+ 
+}
+
+.sub form input {
+    border: none;
+    border-bottom:1px solid black ;
+    background-color: #F0F0F0 ;
+    width: 400px;}
+
+.load_more {
+text-align: center;}
+.load_more button{
+padding: 16px 24px;
+background-color: #FEFEFE;
+border: 1px solid black;}
+.load_more button a{
+text-decoration: none;}
+
+footer{
+background-color: #F0F0F0 ;
+margin-top: 100px;
+color: #303030;}
+.ftr{
+overflow: hidden;
+width: 80%;
+margin: auto;}
+.left_foot{ float: left; }
+.left_foot ul{ list-style: none; }
+.left_foot ul li{ float: left; 
+line-height: 45px;
+margin-right: 20px;}
+.left_foot ul li a{ text-decoration: none; 
+color: #303030;}
+.right_foot{ float: right; }
+.right_foot span{ float: left;
+line-height: 45px;
+  }
+.right_foot span a{
+text-decoration: none;
+color: #303030;}
+.right_foot img{ float: right;
+margin-left:14px ; }
